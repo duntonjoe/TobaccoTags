@@ -3,7 +3,7 @@ Repository for pipe tobacco cellar labels
 
 # Structure
 Labels are sorted by current brand name at time of upload.
-Example: "Mixture 965" is listed under "Peterson". Not Dunhill, not STG.
+Example: "Escudo" is listed under "Escudo", not "Scandanavian Tobacco Group".
 
 # Files
 Each Label contains, at minimum, the following three files:
