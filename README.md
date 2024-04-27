@@ -12,7 +12,7 @@ Each Label contains, at minimum, the following three files:
 - <blend_name>_WIDE.pdf:
   - This is a print-ready label, approximately 2.5" in diameter. Suitable for use with wide mouth mason jars.
 - <blend_name>_STD.pdf:
-  - This is a print-ready label, approximate 1.8" in diameter. Suitable for use with non-wide mouth mason jars. 
+  - This is a print-ready label, approximate 1.8" in diameter. Suitable for use with standard mouth mason jars. 
 
 # Contributions
 Please feel free to submit labels for inclusion in this repository. All labels must adhere to the file structure and naming convention set forth in the "Files" section above. Contribuitons can be made either via a merge request, or by emailing your design to tobaccotags@gmail.com.
