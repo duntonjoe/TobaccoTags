@@ -19,4 +19,4 @@ Please feel free to submit labels for inclusion in this repository. All labels m
 
 # Credits
 Special acknowledgement should be given to the following individuals for their contributions to this repository:
-- https://www.reddit.com/user/fancyawank/ provided all lables listed under the "Various Sheets" folder
+- https://www.reddit.com/user/fancyawank/ provided all lables listed under the "Various Sheets" folder.
