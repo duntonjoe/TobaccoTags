@@ -16,3 +16,7 @@ Each Label contains, at minimum, the following three files:
 
 # Contributions
 Please feel free to submit labels for inclusion in this repository. All labels must adhere to the file structure and naming convention set forth in the "Files" section above. Contribuitons can be made either via a merge request, or by emailing your design to tobaccotags@gmail.com.
+
+# Credits
+Special acknowledgement should be given to the following individuals for their contributions to this repository:
+- https://www.reddit.com/user/fancyawank/ provided all lables listed under the "Various Sheets" folder
